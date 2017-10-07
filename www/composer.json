@@ -1,0 +1,5 @@
+{
+    "require": {
+        "laravel/laravel": "5.4.30"
+    }
+}
